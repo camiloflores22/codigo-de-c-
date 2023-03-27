@@ -1,0 +1,15 @@
+C:\Users\ghost\OneDrive\Desktop\Nueva carpeta (5)\Desarrollo de Sistemas con Herramientas Privadas\Camilo\MyApp7\obj\Debug\net7.0\MyApp7.csproj.AssemblyReference.cache
+C:\Users\ghost\OneDrive\Desktop\Nueva carpeta (5)\Desarrollo de Sistemas con Herramientas Privadas\Camilo\MyApp7\obj\Debug\net7.0\MyApp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghost\OneDrive\Desktop\Nueva carpeta (5)\Desarrollo de Sistemas con Herramientas Privadas\Camilo\MyApp7\obj\Debug\net7.0\MyApp7.AssemblyInfoInputs.cache
+C:\Users\ghost\OneDrive\Desktop\Nueva carpeta (5)\Desarrollo de Sistemas con Herramientas Privadas\Camilo\MyApp7\obj\Debug\net7.0\MyApp7.AssemblyInfo.cs
+C:\Users\ghost\OneDrive\Desktop\Nueva carpeta (5)\Desarrollo de Sistemas con Herramientas Privadas\Camilo\MyApp7\obj\Debug\net7.0\MyApp7.csproj.CoreCompileInputs.cache
+C:\Users\ghost\OneDrive\Desktop\Nueva carpeta (5)\Desarrollo de Sistemas con Herramientas Privadas\Camilo\MyApp7\bin\Debug\net7.0\MyApp7.exe
+C:\Users\ghost\OneDrive\Desktop\Nueva carpeta (5)\Desarrollo de Sistemas con Herramientas Privadas\Camilo\MyApp7\bin\Debug\net7.0\MyApp7.deps.json
+C:\Users\ghost\OneDrive\Desktop\Nueva carpeta (5)\Desarrollo de Sistemas con Herramientas Privadas\Camilo\MyApp7\bin\Debug\net7.0\MyApp7.runtimeconfig.json
+C:\Users\ghost\OneDrive\Desktop\Nueva carpeta (5)\Desarrollo de Sistemas con Herramientas Privadas\Camilo\MyApp7\bin\Debug\net7.0\MyApp7.dll
+C:\Users\ghost\OneDrive\Desktop\Nueva carpeta (5)\Desarrollo de Sistemas con Herramientas Privadas\Camilo\MyApp7\bin\Debug\net7.0\MyApp7.pdb
+C:\Users\ghost\OneDrive\Desktop\Nueva carpeta (5)\Desarrollo de Sistemas con Herramientas Privadas\Camilo\MyApp7\obj\Debug\net7.0\MyApp7.dll
+C:\Users\ghost\OneDrive\Desktop\Nueva carpeta (5)\Desarrollo de Sistemas con Herramientas Privadas\Camilo\MyApp7\obj\Debug\net7.0\refint\MyApp7.dll
+C:\Users\ghost\OneDrive\Desktop\Nueva carpeta (5)\Desarrollo de Sistemas con Herramientas Privadas\Camilo\MyApp7\obj\Debug\net7.0\MyApp7.pdb
+C:\Users\ghost\OneDrive\Desktop\Nueva carpeta (5)\Desarrollo de Sistemas con Herramientas Privadas\Camilo\MyApp7\obj\Debug\net7.0\MyApp7.genruntimeconfig.cache
+C:\Users\ghost\OneDrive\Desktop\Nueva carpeta (5)\Desarrollo de Sistemas con Herramientas Privadas\Camilo\MyApp7\obj\Debug\net7.0\ref\MyApp7.dll
